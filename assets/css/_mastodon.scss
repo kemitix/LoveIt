@@ -1,0 +1,29 @@
+#mastodon-comments {
+    .comment {
+      border: 1px solid white;
+      padding: 1rem;
+      picture {
+        float: left;
+        padding-right: 1rem;
+        img.avatar {
+          width: 4rem;
+        }
+      }
+      .author { 
+        .display { 
+          padding-right: 1rem;
+          font-weight: bold; 
+        } 
+        .instance {
+            a {
+                align-items: center;
+            }
+        }
+      }
+      time {}
+      main {}
+      footer {
+        display: none;
+      }
+    }
+}
