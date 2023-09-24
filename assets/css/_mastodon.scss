@@ -1,4 +1,8 @@
+#load-comment.hidden {
+    display: none;
+}
 #mastodon-comments {
+  .article-content p a { font-weight: bold; }
     .comment {
       border: 1px solid white;
       padding: 1rem;
