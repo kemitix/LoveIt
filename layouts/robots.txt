@@ -4,6 +4,8 @@ Disallow: /images/
 Disallow: /js/
 Disallow: /css/
 
+Disallow: /your_facebook_activity/
+
 User-agent: MJ12bot
 Disallow: /
 
